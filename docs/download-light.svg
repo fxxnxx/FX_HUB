@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268" height="56" viewBox="0 0 268 56" role="img" aria-label="Скачать FX HUB для Windows">
+  <rect width="268" height="56" rx="12" fill="#111113"/>
+  <g transform="translate(22 16)" fill="none" stroke="#EDEDEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+    <polyline points="7 10 12 15 17 10"/>
+    <line x1="12" y1="15" x2="12" y2="3"/>
+  </g>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="26" font-size="16" font-weight="600" fill="#EDEDEF">Скачать для Windows</text>
+    <text x="60" y="43" font-size="12" fill="#A0A0A6">Последняя версия, zip</text>
+  </g>
+</svg>
